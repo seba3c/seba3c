@@ -72,7 +72,7 @@ I'm a proper university nerd — three degrees from **Universidad Nacional de La
 
 ## 📬 Find me around the web
 
-- 🌐 Personal site: [cscastaneda.netlify.app](https://cscastaneda.netlify.app)
+- 🌐 Personal site: [sebastiancastaneda.dev](https://sebastiancastaneda.dev)
 - 💼 LinkedIn: [in/sebastiancastaneda](https://www.linkedin.com/in/sebastiancastaneda/)
 - 📧 Email: castanedacs@gmail.com
 
