@@ -76,11 +76,9 @@ I'm a proper university nerd — three degrees from **Universidad Nacional de La
 
 ## 🚀 What I'm tinkering with lately
 
-- **[fa-ecom](https://github.com/seba3c/fa-ecom)** — a FastAPI e-commerce learning project with AI assistant tooling
-- **[sb-ecom](https://github.com/seba3c/sb-ecom)** — same idea, but Java + Spring Boot (keeping the JVM skills sharp)
-- **[cryptils](https://github.com/seba3c/cryptils)** — a small Python lib for handling crypto and fiat currency amounts
-- **[hawk-eye-sim](https://github.com/seba3c/hawk-eye-sim)** — a MATLAB toy simulating the Hawk-Eye tennis ball tracking system (the MSc. nerd in me never sleeps)
 - **[my_profile](https://github.com/seba3c/my_profile)** — personal website, built with Claude, Opencode and Astro ✨
+- **[monetils](https://github.com/seba3c/monetils)** — a small Python lib for handling crypto and fiat currency amounts implemented with SDD (spec-kit) and claude
+- **[sb-ecom](https://github.com/seba3c/sb-ecom)** — Java + Spring Boot e-commerce learning project fully implemented with AI assistant tooling
 
 ---
 
