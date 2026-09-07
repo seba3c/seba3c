@@ -77,6 +77,7 @@ I'm a proper university nerd — three degrees from **Universidad Nacional de La
 ## 🚀 What I'm tinkering with lately
 
 - **[my_profile](https://github.com/seba3c/my_profile)** — personal website, built with Claude, Opencode and Astro ✨
+- **[EasyParse.CV](https://github.com/seba3c/easyparse-cv)** - Utility app to parse and extract resume/cv data and sections. Implemented using SDD (OpenSpec) and claude
 - **[monetils](https://github.com/seba3c/monetils)** — a small Python lib for handling crypto and fiat currency amounts implemented with SDD (spec-kit) and claude
 - **[sb-ecom](https://github.com/seba3c/sb-ecom)** — Java + Spring Boot e-commerce learning project fully implemented with AI assistant tooling
 - **[mint](https://github.com/nujovich/mint)** - Mint audits legacy CSS files - I was working as a collaborator in this novel project of a ex teammate and friend [Nadia Ujovich](https://github.com/nujovich)  
