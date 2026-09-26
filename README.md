@@ -63,7 +63,7 @@ I'm a **Senior Software Engineer** with 10+ years building things that (hopefull
 
 ## 🎓 Academic background
 
-I'm a proper university nerd — three degrees from **Universidad Nacional de La Plata (UNLP)**:
+I'm a proper university nerd — two university degrees (plus an intermediate title along the way) from **Universidad Nacional de La Plata (UNLP)**:
 
 | Degree | Year | Highlights |
 |--------|------|------------|
