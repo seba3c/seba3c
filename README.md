@@ -24,6 +24,8 @@ I'm a **Senior Software Engineer** with 10+ years building things that (hopefull
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white)
@@ -45,6 +47,7 @@ I'm a **Senior Software Engineer** with 10+ years building things that (hopefull
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -76,6 +79,7 @@ I'm a proper university nerd — two university degrees (plus an intermediate ti
 
 ## 🚀 What I'm tinkering with lately
 
+- **[pixban](https://github.com/seba3c/pixban)** — a browser-based image pixelation editor built with React and Vite, processing images locally on your device
 - **[my_profile](https://github.com/seba3c/my_profile)** — personal website, built with Claude, Opencode and Astro ✨
 - **[TMAY Chatbot](https://github.com/seba3c/tmay_chatbot)** - RAG interview-candidate chatbot demo (synthetic persona data)
 - **[EasyParse.CV](https://github.com/seba3c/easyparse-cv)** - Utility app to parse and extract resume/cv data and sections. Implemented using SDD (OpenSpec) and claude
