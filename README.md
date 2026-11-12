@@ -8,8 +8,7 @@ I'm a **Senior Software Engineer** with 10+ years building things that (hopefull
 
 ## 🧉 A bit about me
 
-- 🏠 Born and raised in **La Plata, Argentina** — home of UNLP, great football, and mate culture
-- 🌍 Now based in **Valencia, Spain**, fully remote and loving it
+- 🏠 Living in **La Plata, Argentina** — home of UNLP and Estudiantes de la Plata
 - 🏦 Most recent work experience in @ **Xapo Bank** — building payment integrations and keeping crypto flowing safely
 - 🤖 Actively transitioning into **AI Engineering** — Claude Code, GitHub Copilot & friends are part of my daily workflow, and I'm going deeper through hands-on coursework and project work
 - 🎓 Hold an **M.Sc. in Computer Vision** and a **B.Sc. in Computer Science**, both from UNLP
