@@ -98,6 +98,8 @@ I'm a proper university nerd — two university degrees (plus an intermediate ti
 ## 📬 Find me around the web
 
 - 🌐 Personal site: [sebastiancastaneda.dev](https://sebastiancastaneda.dev)
+- 🛍️ My business: [Juana y Lola](https://juanaylola.com/)
+- 💖 GitHub Sponsors: [Sponsor me](https://github.com/sponsors/seba3c)
 - 💼 LinkedIn: [in/sebastiancastaneda](https://www.linkedin.com/in/sebastiancastaneda/)
 - 📧 Email: castanedacs@gmail.com
 
