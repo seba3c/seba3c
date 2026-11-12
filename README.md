@@ -1,7 +1,5 @@
 # Hey there! I'm Sebastián 👋
 
-> Argentine 🇦🇷 living in Valencia, Spain 🇪🇸 — coding from home with good mate 🧉 and better sunshine ☀️
-
 I'm a **Senior Software Engineer** with 15+ years building things that (hopefully) don't break in production, now expanding into **AI Engineering**. I've shipped code across FinTech, crypto, banking, government, and health-tech — from payday loan platforms to Bitcoin banks, from government treasury systems to medical apps.
 
 ---
@@ -78,14 +76,20 @@ I'm a proper university nerd — two university degrees (plus an intermediate ti
 
 ## 🚀 What I'm tinkering with lately
 
-- **[pixban](https://github.com/seba3c/pixban)** — a browser-based image pixelation editor built with React and Vite, processing images locally on your device
-- **[my_profile](https://github.com/seba3c/my_profile)** — personal website, built with Claude, Opencode and Astro ✨
+### AI Engineering 
+
 - **[TMAY Chatbot](https://github.com/seba3c/tmay_chatbot)** - RAG interview-candidate chatbot demo (synthetic persona data)
+- **[Engineering team](https://github.com/seba3c/engineering_team)** - An agent based solution simulating an Engineering Team implemented with CrewAI 
+
+### Websites & Tools
+
+- **[pixban](https://github.com/seba3c/pixban)** — a browser-based image pixelation editor built with React and Vite, processing images locally on your device
 - **[EasyParse.CV](https://github.com/seba3c/easyparse-cv)** - Utility app to parse and extract resume/cv data and sections. Implemented using SDD (OpenSpec) and claude
+- **[my_profile](https://github.com/seba3c/my_profile)** — personal website, built with Claude, Opencode and Astro ✨
 - **[monetils](https://github.com/seba3c/monetils)** — a small Python lib for handling crypto and fiat currency amounts implemented with SDD (spec-kit) and claude
 - **[ecom-app](https://github.com/seba3c/ecom-app)** — Ecommerce app with 2 backend implementations (Java + Springboot & Python + FastAPI) and a react app frontend
-- **[mint](https://github.com/nujovich/mint)** - Mint audits legacy CSS files - I was working as a collaborator in this novel project of a ex teammate and friend [Nadia Ujovich](https://github.com/nujovich)  
-
+- **[mint](https://github.com/nujovich/mint)** - Mint audits legacy CSS files - I was working as a collaborator in this novel project of a ex teammate and friend [Nadia Ujovich](https://github.com/nujovich) 
+ 
 ---
 
 ## 📬 Find me around the web
