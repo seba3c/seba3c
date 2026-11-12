@@ -2,7 +2,7 @@
 
 > Argentine 🇦🇷 living in Valencia, Spain 🇪🇸 — coding from home with good mate 🧉 and better sunshine ☀️
 
-I'm a **Senior Software Engineer** with 10+ years building things that (hopefully) don't break in production, now expanding into **AI Engineering**. I've shipped code across FinTech, crypto, banking, government, and health-tech — from payday loan platforms to Bitcoin banks, from government treasury systems to medical apps.
+I'm a **Senior Software Engineer** with 15+ years building things that (hopefully) don't break in production, now expanding into **AI Engineering**. I've shipped code across FinTech, crypto, banking, government, and health-tech — from payday loan platforms to Bitcoin banks, from government treasury systems to medical apps.
 
 ---
 
