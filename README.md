@@ -84,6 +84,7 @@ I'm a proper university nerd — two university degrees (plus an intermediate ti
 - **[TMAY Chatbot](https://github.com/seba3c/tmay_chatbot)** - RAG interview-candidate chatbot demo (synthetic persona data)
 - **[Engineering Team](https://github.com/seba3c/engineering_team)** - An agent based solution simulating an Engineering Team implemented with CrewAI
 - **[Deep Research](https://github.com/seba3c/deep_research)** - An agent based solution for web research and report implemented with OpenAI Agents SDK and Gradio
+- **[Sidekick](https://github.com/seba3c/sidekick)** A local personal assistant built with LangChain, LangGraph, Gradio, and MCP tools
 
 ### Websites & Tools
 
